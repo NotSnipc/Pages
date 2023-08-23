@@ -1,4 +1,4 @@
-# Pages
+# SniPages
 
 >[mobile.html](http://notsnipc.github.io/Pages/mobile.html)
 
