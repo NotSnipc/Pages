@@ -13,6 +13,16 @@
     .text{
         font-family: 'Poppins', sans-serif;
     }
+    .image{
+        display: flex;
+        align-items: end;
+        justify-content: center;
+    }
+    #main{
+            display: flex;
+            justify-content: center;
+            text-align: center;
+        }
     @media only screen and (max-width: 600px){
         .image img{
             height: 190px;
@@ -20,15 +30,9 @@
         }
         .image{
             height: 270px;
-            display: flex;
-            align-items: end;
-            justify-content: center;
+
         }
-        #main{
-            display: flex;
-            justify-content: center;
-            text-align: center;
-        }
+       
     }
 </style>
 <style>
@@ -43,8 +47,14 @@
     <div class="text">
         <h1>ayo visitor-san</h1>
         <h2>mobile isn't supported yet~</h2>
-        <h6>if you still want to access, feel free to use 'Desktop site' but it may break your experience.</h6>
+        <h6>if you still want to access, feel free to use 'desktop site' but it may break your experience.</h6>
     </div>
     </section>
 </body>
 </html>
+<!-- Script to redirect according to screen size -->
+  <!-- <script type="text/javascript">
+        if (screen.width <= 950) {
+          window.location = "https://example.com";
+        }
+      </script> -->
