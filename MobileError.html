@@ -6,43 +6,52 @@
     <title>mobile not supported~</title>
 </head>
 <style>
+    /* background image */
     body{
         background-image: url(assest/bg.jpg);
         background-size: 2000px;
     }
+    /* font */
     .text{
         font-family: 'Poppins', sans-serif;
     }
+    /* image container */
     .image{
         display: flex;
         align-items: end;
         justify-content: center;
     }
+    /* main text parent container */
     #main{
             display: flex;
             justify-content: center;
             text-align: center;
         }
+
+    /* mobile styling */
     @media only screen and (max-width: 600px){
+        /* size styling of image and image container */
         .image img{
             height: 190px;
             border-radius: 5px;
         }
         .image{
             height: 270px;
-
         }
-       
     }
 </style>
+
+<!-- google fonts -->
 <style>
     @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap');
   </style>
 <body>
-    
+    <!-- image area -->
     <div class="image">
         <img src="assest/sad-anime.gif" alt="">
     </div>
+
+    <!-- text area -->
     <section id="main">
     <div class="text">
         <h1>ayo visitor-san</h1>
@@ -52,6 +61,11 @@
     </section>
 </body>
 </html>
+<script type="text/javascript">
+    if (screen.width >= 950) {
+      window.location = "https://example.com";
+    }
+  </script>
 <!-- Script to redirect according to screen size -->
   <!-- <script type="text/javascript">
         if (screen.width <= 950) {
