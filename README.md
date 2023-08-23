@@ -2,5 +2,5 @@
 
 >[mobile.html](http://notsnipc.github.io/Pages/mobile.html)
 
-This page states that mobiles(display size) are not supported.
+this page states that mobile's display ratio is not supported.
 
