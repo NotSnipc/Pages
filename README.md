@@ -6,5 +6,11 @@
 
 ## Contents
 
-### '/markup'
+### /markup
 > contains html documents.
+
+### /img
+> contains logos and background images.
+
+### /gif
+> contains .gif files.
