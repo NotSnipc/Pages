@@ -1,2 +1,2 @@
-<img style="height:2px;" alt="Alt text" src="/img/snLogo.png">
+![sn](img/snLogo.png "sn")
 "sn" is a space which contains some of my favourite or often used contents.
