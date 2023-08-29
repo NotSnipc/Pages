@@ -1,6 +1,2 @@
-# SniPages
-
->[mobile.html](http://notsnipc.github.io/Pages/mobile.html)
-
-this page states that mobile's display ratio is not supported.
-
+# sn
+bunch of images, markup and media i often use.
