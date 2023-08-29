@@ -1,2 +1,2 @@
 # sn
-"sn" is a space where i upload bunch of images and markup for my ease.
+"sn" is a space which contains some of my favourite or often used contents.
