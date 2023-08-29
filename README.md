@@ -1,2 +1,2 @@
 # sn
-bunch of images, markup and media i often use.
+"sn" is a space where i upload bunch of images and markup for my ease.
