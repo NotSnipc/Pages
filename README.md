@@ -6,6 +6,9 @@
 
 "sn" curates commonly used images,logos,gifs and html templats for ease of access and smoother development.
 
+### Contributing
+> This repository is not meant to a resource list or source code repository. 'sn' holds content related to me(snipc). However you can add some awesome images or gifs to the repository.
+
 ## Contents
 
 ### /markup
