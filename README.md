@@ -17,5 +17,5 @@
 ### /img
 > contains logos and background images.
 
-### /gifs
+### /gif
 > contains .gif files.
