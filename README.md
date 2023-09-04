@@ -14,11 +14,11 @@
 
 ## Contents
 
-### /html
+### [/html](/html/)
 > contains html documents.
 
-### /img
+### [/img](/img/)
 > contains logos and background images.
 
-### /gif
+### [/gif](/gif/)
 > contains .gif files.
