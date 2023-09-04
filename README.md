@@ -4,7 +4,7 @@
 
 
 
-[![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)](https://github.dev/NotSnipc/sn)
+[![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NotSnipc/sn)
 
 "sn" curates most used images,logos,gifs and html templates in my workflow for ease of access and smoother development.
 
