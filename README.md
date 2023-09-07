@@ -9,7 +9,7 @@
 "sn" curates most used images,logos,gifs and html templates in my workflow for ease of access and smoother development.
 
 ### Contributing
-> This repository is not meant to a resource list or source code repository. 'sn' holds content related to me(snipc). However you can add some awesome images or gifs to the repository.
+> This repository is not meant to a resource list or source code repository. 'sn' holds content related to me(snipc).
 
 
 ## Contents
@@ -22,5 +22,11 @@
 
 ### [/gif](/gif/)
 > contains .gif files.
+
+### [/config](/config/)
+> contains config files.
+
+### [/docs](/docs/)
+> contains documents,js,txt and everything.
 
 ### version name: BetterOne
