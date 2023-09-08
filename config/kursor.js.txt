@@ -1,5 +1,4 @@
 <link rel="stylesheet" href="https://unpkg.com/kursor/dist/kursor.css">
 <script src="https://cdn.jsdelivr.net/npm/kursor"></script>
 
-// already config js file
 <script src="https://sn.ix.tc/docs/kursor.js"></script>
