@@ -27,6 +27,6 @@
 > contains config files.
 
 ### [/docs](/docs/)
-> contains documents,js,txt and everything.
+> contains everything.
 
-### version name: BetterOne
+### version name: AnotherOne
