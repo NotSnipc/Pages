@@ -14,19 +14,10 @@
 
 ## Contents
 
-### [/html](/html/)
-> contains html documents.
+### [/html](/html/) +  & [/config](/config/) + [/docs](/docs/)
+> contains everything(html documents, js files, txt)
 
-### [/img](/img/)
-> contains logos and background images.
+### [/img](/img/) & [/gif](/gif/)
+> contains logo and .gif files.
 
-### [/gif](/gif/)
-> contains .gif files.
-
-### [/config](/config/)
-> contains config files.
-
-### [/docs](/docs/)
-> contains everything.
-
-### version name: AnotherOne
+### version name: ClearUP
