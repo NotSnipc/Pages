@@ -1,6 +1,6 @@
 ![sn](img/sn.png "sn")
 
-# 'sn is for space'
+# 'sn - the easy space'
 
 
 
@@ -14,7 +14,7 @@
 
 ## Contents
 
-### [/html](/html/) +  & [/config](/config/) + [/docs](/docs/)
+### [/html](/html/) +  [/config](/config/) + [/docs](/docs/)
 > contains everything(html documents, js files, txt)
 
 ### [/img](/img/) & [/gif](/gif/)
